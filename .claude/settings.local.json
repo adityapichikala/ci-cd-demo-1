@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm .github)",
+      "Bash(mkdir -p .github/workflows)"
+    ]
+  }
+}
